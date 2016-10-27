@@ -12,8 +12,8 @@
 #
 # In floating point math, there **are** fractions. So...
 #
-#    1.0 / 2.0 => 0.5
-#
+#    1.0 / 2.0 => 0.5 (yeah!! cool)
+#    
 
 require "temperature"
 
