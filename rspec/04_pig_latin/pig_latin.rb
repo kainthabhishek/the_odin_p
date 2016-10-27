@@ -30,6 +30,7 @@ def translate(val)
 	exit
 end 
 sol
+	#so cool
 
 	
 end
