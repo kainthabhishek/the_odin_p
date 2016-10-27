@@ -15,11 +15,12 @@ end
 def multiply(val1,val2)
 	val1*val2
 end
-def factorial(val1)
+def factorial(val)
+	//cool
 	temp=1
-	while val1>0
-		temp*=val1
-		val1-=1
+	while val>0
+		temp*=val
+		val-=1
 	end
 	return temp
 end
