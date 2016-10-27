@@ -115,6 +115,9 @@
 #
 require "hello"
 
+// this is a comment
+// nice work
+
 describe "the hello function" do
   it "says hello" do
     hello.should == "Hello!"
